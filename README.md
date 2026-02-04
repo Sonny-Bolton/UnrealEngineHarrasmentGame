@@ -1,1 +1,23 @@
-# UnrealEngineHarrasmentGame
+# 🎭 KS2 Harassment Avoid Game
+Overview
+This project is a drop and avoid style game but with a twist instead of falling down a dodging like a dropper game or catching falling objects in this game you have to avoid the harrasment options and catch the nice comments this game was made to be a lesson for younger people in KS2 to learn what type of messages class as harrasment and what comments are nice to say.
+
+🎥 Gameplay Video: https://youtu.be/i9S-Qkojd7I
+
+🧠 My Role
+Programmer / Game Developer
+Designed and implemented core message randomize UI
+Built the Correct and Wrong Answers using a yes or no button
+Worked on interaction systems, UI feedback, and overall gameplay structure
+🕹️ Core Features
+UI Screen that shows the message with a yes and no button
+Message Randomizer picked from a random array of messages
+Yes Or No Buttons to choose is harrasment or not
+Life System to give the player so many tries before they lose.
+🛠️ Technology & Tools
+Engine: Unreal Engine
+Languages: /Blueprints
+⚙️ Technical Highlight
+Array Randomizer in game instance
+Choosing Yes Or No
+📸 Media
