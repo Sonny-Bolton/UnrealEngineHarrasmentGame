@@ -1,5 +1,6 @@
 # 🎭 KS2 Harassment Avoid Game
 Overview
+
 This project is a drop and avoid style game but with a twist instead of falling down a dodging like a dropper game or catching falling objects in this game you have to avoid the harrasment options and catch the nice comments this game was made to be a lesson for younger people in KS2 to learn what type of messages class as harrasment and what comments are nice to say.
 
 🎥 Gameplay Video: https://youtu.be/LtC84g26swc
